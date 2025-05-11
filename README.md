@@ -7,6 +7,8 @@ This project is a simple **Weather API Application** built using **MuleSoft Anyp
 * Postman
 * REST APIs
 * JSON
+* OpenWeather API
+  
 
 ## 📌 Features
 * 🌍 Input a city name to fetch live weather data.
